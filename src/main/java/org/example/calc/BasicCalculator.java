@@ -70,6 +70,6 @@ public class BasicCalculator {
     }
     static void doMultiply(float num1, float num2) {
         float result = num1 * num2;
-        out.println("The solution is: " + result);
+        out.println("The solutions is: " + result);
     }
 }
